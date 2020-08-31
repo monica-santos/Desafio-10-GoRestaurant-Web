@@ -50,6 +50,7 @@
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
+    "serve:api": "json-server server.json -p 3333",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
